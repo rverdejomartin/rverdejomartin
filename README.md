@@ -1,16 +1,29 @@
-## Hi there 👋
+### 👋 ¡Hola! Soy un estudiante de Desarrollo de Aplicaciones Web (DAW)
 
-<!--
-**rverdejomartin/rverdejomartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador en formación al cuál le encanta trabajar en equipo, aprender y descubrir cosas nuevas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Mi Stack Tecnológico
+
+Tengo experiencia trabajando en entornos Full-Stack con las siguientes herramientas:
+
+| Categoría | Tecnologías Clave |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3, **JavaScript (JS)** |
+| **Librerías/UI** | **React**, Bootstrap |
+| **Backend** | **PHP**, **Java** |
+| **Control de Versiones** | Git, GitHub |
+
+---
+
+### ☁️ Infraestructura y DevOps
+
+Además del código, tengo conocimientos en herramientas enfocadas en el despliegue tales como:
+
+* **Contenedores:** **Docker** y gestión con **Portainer**.
+* **Servidores:** Configuración básica con **Nginx**.
+* **Cloud:** Conocimientos adquiridos en **AWS Academy**.
+* **Networking:** Gestión y optimización con **Cloudflare**.
+
+---
