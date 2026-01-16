@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="alone.gif" width="100%">
+  <video src="alone.gif" width="100%" autoplay loop muted playsinline>
+    Tu navegador no soporta el elemento de video.
+  </video>
 </div>
 
 
