@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://media.tenor.com/iAZDBShmVhw/full.gif" alt="Personal Branding Gif" width="100%">
+</div>
+
+
 ### 👋 ¡Hola! Soy un estudiante de Desarrollo de Aplicaciones Web (DAW)
 
 Soy un desarrollador en formación al cuál le encanta trabajar en equipo, aprender y descubrir cosas nuevas.
