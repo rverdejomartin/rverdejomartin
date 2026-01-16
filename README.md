@@ -1,5 +1,6 @@
-https://media1.tenor.com/m/YjiuFd-KUVQAAAAC/one-piece-one-piece-movie-9.gif
 
+
+![alone](https://github.com/user-attachments/assets/55ee546b-a0f4-4e8d-ade8-2d1da0e34df3)
 
 ### 👋 ¡Hola! Soy un estudiante de Desarrollo de Aplicaciones Web (DAW)
 
