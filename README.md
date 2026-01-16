@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/iAZDBShmVhw/full.gif" alt="Personal Branding Gif" width="100%">
+  <img src="https://media.tenor.com/iAZDBShmVhw/full.gif" alt="Personal Branding Gif" width="100%" heigth="20">
 </div>
 
 
