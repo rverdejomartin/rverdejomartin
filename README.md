@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="alone.gif" width="100%" alt="Mi Banner Animado">
+  <video src="alone.gif" width="100%" autoplay loop muted playsinline controls="false">
+  </video>
 </div>
 
 
