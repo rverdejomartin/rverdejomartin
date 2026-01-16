@@ -1,7 +1,5 @@
 <div align="center">
-  <video src="alone.gif" width="100%" autoplay loop muted playsinline>
-    Tu navegador no soporta el elemento de video.
-  </video>
+  <img src="alone.gif" width="100%" alt="Mi Banner Animado">
 </div>
 
 
