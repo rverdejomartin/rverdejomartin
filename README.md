@@ -1,6 +1,5 @@
 <div align="center">
-  <video src="alone.gif" width="100%" autoplay loop muted playsinline controls="false">
-  </video>
+  <img src="PEGA_AQUI_TU_URL_RAW" width="100%">
 </div>
 
 
