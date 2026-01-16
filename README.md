@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" width="100%">
+  <img src="attack-on-titan-spinning.gif" width="100%">
 </div>
 
 ### 👋 ¡Hola! Soy un estudiante de Desarrollo de Aplicaciones Web (DAW)
