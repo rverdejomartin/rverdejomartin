@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="PEGA_AQUI_TU_URL_RAW" width="100%">
-</div>
+https://media1.tenor.com/m/YjiuFd-KUVQAAAAC/one-piece-one-piece-movie-9.gif
 
 
 ### 👋 ¡Hola! Soy un estudiante de Desarrollo de Aplicaciones Web (DAW)
