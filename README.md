@@ -1,6 +1,4 @@
-
-
-![alone](https://github.com/user-attachments/assets/55ee546b-a0f4-4e8d-ade8-2d1da0e34df3)
+<div class="tenor-gif-embed" data-postid="13967269790590589683" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/attack-on-titan-spinning-wings-gif-13967269790590589683">Attack On Titan Spinning Sticker</a>from <a href="https://tenor.com/search/attack+on+titan-stickers">Attack On Titan Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ### 👋 ¡Hola! Soy un estudiante de Desarrollo de Aplicaciones Web (DAW)
 
