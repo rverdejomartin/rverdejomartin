@@ -1,4 +1,6 @@
-<div class="tenor-gif-embed" data-postid="13967269790590589683" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/attack-on-titan-spinning-wings-gif-13967269790590589683">Attack On Titan Spinning Sticker</a>from <a href="https://tenor.com/search/attack+on+titan-stickers">Attack On Titan Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+  <img src="" width="100%">
+</div>
 
 ### 👋 ¡Hola! Soy un estudiante de Desarrollo de Aplicaciones Web (DAW)
 
