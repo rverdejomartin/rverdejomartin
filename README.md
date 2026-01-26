@@ -1,5 +1,5 @@
 <div>
-  <img src="96baa0dd6cb40be2056fa0b600ce06bc.jpg" width="100%" height="fit">
+  <img src="96baa0dd6cb40be2056fa0b600ce06bc.jpg" width="100%" height="fit-content">
 </div>
 
 ---
@@ -36,5 +36,5 @@ Además del código, tengo conocimientos en herramientas enfocadas en el desplie
 
 
 <div>
-  <img src="https://i.pinimg.com/736x/36/19/49/361949333ba8ffb73ec5fb3ea1f8f1a1.jpg" width="200" height="200" margin-left="0">
+  <img src="97e0f17a2eac51528cc616f490294d4b.jpg" width="200" height="200" margin-left="0">
 </div>
