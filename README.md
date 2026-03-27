@@ -4,7 +4,7 @@
 
 ---
 
-### 👋 ¡Hola! Soy un estudiante de Desarrollo de Aplicaciones Web (DAW)
+### 👋 ¡Hola! Soy desarrollador web fullstack
 
 Soy un desarrollador en formación al cuál le encanta trabajar en equipo, aprender y descubrir cosas nuevas.
 
