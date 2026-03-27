@@ -1,5 +1,5 @@
 <div>
-  <img src="96baa0dd6cb40be2056fa0b600ce06bc.jpg" width="100%" height="fit-content">
+  <img src="96baa0dd6cb40be2056fa0b600ce06bc.jpg" width="200" height="fit-content">
 </div>
 
 ---
@@ -33,8 +33,3 @@ Además del código, tengo conocimientos en herramientas enfocadas en el desplie
 * **Networking:** Gestión y optimización con **Cloudflare**.
 
 ---
-
-
-<div>
-  <img src="97e0f17a2eac51528cc616f490294d4b.jpg" width="200" height="200" margin-left="0">
-</div>
