@@ -17,7 +17,7 @@ Tengo experiencia trabajando en entornos Full-Stack con las siguientes herramien
 | Categoría | Tecnologías Clave |
 | :--- | :--- |
 | **Frontend** | HTML5, CSS3, **JavaScript (JS)** |
-| **Librerías/UI** | **React**, Bootstrap |
+| **Librerías/UI** | **React**, Sass, Vue |
 | **Backend** | **PHP**, **Java** |
 | **Control de Versiones** | Git, GitHub |
 
