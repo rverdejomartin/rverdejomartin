@@ -79,8 +79,6 @@ const raul = {
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rverdejomartin&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rverdejomartin&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0)
-
 </div>
 
 ---
