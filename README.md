@@ -28,7 +28,7 @@ const raul = {
   formación: ["CFGM Sistemas Microinformáticos y Redes", "CFGS Desarrollo de Aplicaciones Web"],
   idiomas:   { español: "Nativo", inglés: "Básico" },
   mentalidad: "Aprendizaje continuo · Trabajo en equipo · Mejora constante",
-  buscando:  "Nuevos retos donde crecer y aportar valor 🚀",
+  buscando:  "Nuevos retos donde crecer y aportar valor.",
 };
 ```
 
@@ -77,7 +77,7 @@ const raul = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rverdejomartin&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0)
+![GitHub Streak](https://streak-stats.demolab.com?user=rverdejomartin&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rverdejomartin&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0)
 
