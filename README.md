@@ -100,8 +100,5 @@ const raul = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
-<div align="center">
-  <img src="./attack-on-titan-spinning.gif" width="80" height="80"/>
-</div>
 
 </div>
